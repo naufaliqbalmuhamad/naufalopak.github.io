@@ -1,0 +1,28 @@
+body {
+	background: #00A118;
+	position: relative;
+}
+
+#judul{
+	color: #4CAF50;  
+}
+
+#judul:hover {
+	color: #2E7D32;
+}
+
+#difference-navbar, #trees-navbar, #herbs-navbar, #logout-navbar {
+	color: #2E7D32;
+}
+
+#difference {
+	color: #2E7D32;  
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #66BB6A;
+}
+
+img:hover {
+	opacity: 0.8;
+}

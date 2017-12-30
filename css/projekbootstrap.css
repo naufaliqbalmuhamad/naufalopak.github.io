@@ -1,0 +1,37 @@
+body {
+	background: #00A118;
+}
+
+
+/**************Navigation****************/
+#judul, #pohon, #herba, #tentang{
+	color: #4CAF50;  
+}
+
+#judul:hover {
+	color: #2E7D32;
+}
+#pohon:hover {
+	color: #2E7D32;
+	cursor: pointer;
+}
+#herba:hover {
+	color: #2E7D32;
+}
+#tentang:hover {
+	color: #2E7D32;
+}
+
+#search_butt {
+	right: 0;
+}
+
+/*************Header******************/
+#judul_header {
+	color: #2E7D32;
+}
+
+/**************Content****************/
+#images-button, #video-button {
+	cursor: pointer;
+}

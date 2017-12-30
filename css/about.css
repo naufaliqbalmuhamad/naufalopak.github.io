@@ -1,0 +1,50 @@
+@media screen and (min-width: 60px) {
+    body {
+        background-color: green;
+    }
+}
+
+#wrapper {
+	border-radius: 10px;
+	display: flex;
+	top: 200px;
+	align-items: center;
+	background-color: green;
+	margin: 0 0 20px 40px;
+}
+
+#about-pic {
+	width: 25%;
+	float: left;
+	margin-left: 10px;
+}
+
+#about-pic img {
+	margin: 10px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100pt;
+}
+
+#about-desc {
+	color: white;
+	float: right;
+	width: 50%;
+}
+
+#about-data {
+	list-style: none;
+}
+
+#telpon {
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+}
+#email {
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+}
+#twitter {
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+}
